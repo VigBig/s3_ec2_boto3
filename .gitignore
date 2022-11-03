@@ -2,3 +2,5 @@ test1_credentials.csv
 .~lock.test1_credentials.csv#
 sampleFiles/ubuntu-20.04.iso
 venv
+demo-ubuntu-keypair.pem
+demo-win-keypair.pem
